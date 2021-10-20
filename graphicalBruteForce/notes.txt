@@ -1,0 +1,1 @@
+si el archivo es generador por simpleFB.py no encuentra la contraseña.
